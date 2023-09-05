@@ -12,6 +12,11 @@ textarea {
   padding: 10px;
 }
 
+h3 {
+  background-color: wheat;
+  padding: 1px;
+  margin: 0 30%;
+}
 .description {
   white-space: pre-wrap;
 }
