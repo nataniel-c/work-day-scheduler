@@ -8,3 +8,5 @@ https://nataniel-c.github.io/work-day-scheduler
 
 ## Website Screenshots
 
+![screenshot3](./assets/images/screenshot1.PNG)
+---
